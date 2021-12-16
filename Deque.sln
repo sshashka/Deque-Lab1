@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deque", "Deque\Deque.csproj", "{9750F2F7-7A99-4B7C-B828-D3ED369E0D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{0E4B887F-2FEB-4FF7-B3E8-AE72D498CAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9750F2F7-7A99-4B7C-B828-D3ED369E0D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9750F2F7-7A99-4B7C-B828-D3ED369E0D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9750F2F7-7A99-4B7C-B828-D3ED369E0D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9750F2F7-7A99-4B7C-B828-D3ED369E0D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4B887F-2FEB-4FF7-B3E8-AE72D498CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4B887F-2FEB-4FF7-B3E8-AE72D498CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4B887F-2FEB-4FF7-B3E8-AE72D498CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4B887F-2FEB-4FF7-B3E8-AE72D498CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
